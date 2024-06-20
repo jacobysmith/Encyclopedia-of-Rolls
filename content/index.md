@@ -1,6 +1,10 @@
 ---
 title: Home
 ---
+List of Content:
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+
+5E Rules
+- [[Classes]]
+- [[Races]]
+

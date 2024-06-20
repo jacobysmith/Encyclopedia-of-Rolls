@@ -1,10 +1,11 @@
-
 ---
-title: "Class List"
+title: "Classes"
 draft: false
 tags:
-  - Index
+  - List
 ---
+List of available playable classes:
+
 - [[Barbarian]]
 - [[Bard]]
 - [[Cleric]]
@@ -17,3 +18,5 @@ tags:
 - [[Sorcerer]]
 - [[Warlock]]
 - [[Wizard]]
+
+
