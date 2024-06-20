@@ -1,9 +1,11 @@
+
 ---
-title: Backgrounds
+title: "Backgrounds"
 draft: false
 tags:
   - List
 ---
+
 List of premade backgrounds are below, but not limited to your creativity:
 
 - [[Acolyte]]
