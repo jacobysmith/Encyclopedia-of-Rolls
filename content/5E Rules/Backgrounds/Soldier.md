@@ -1,6 +1,8 @@
 ---
 tags:
   - Backgrounds/PHB
+title: Soldier
+draft: false
 ---
 
 ## Soldier

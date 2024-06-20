@@ -1,6 +1,8 @@
 ---
 tags:
   - Backgrounds/PHB
+title: Criminal (Spy)
+draft: false
 ---
 
 ## Variant Criminal (Spy)

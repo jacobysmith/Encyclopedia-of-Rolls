@@ -1,6 +1,8 @@
 ---
 tags:
   - Backgrounds/PHB
+title: Guild Artisan
+draft: false
 ---
 
 ## Guild Artisan

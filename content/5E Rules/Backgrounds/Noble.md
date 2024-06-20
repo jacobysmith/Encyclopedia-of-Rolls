@@ -1,6 +1,8 @@
 ---
 tags:
   - Backgrounds/PHB
+title: Noble
+draft: false
 ---
 
 ## Noble

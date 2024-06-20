@@ -1,6 +1,8 @@
 ---
 tags:
   - Backgrounds/PHB
+title: Sailor (Pirate)
+draft: false
 ---
 
 ## Variant Sailor (Pirate)

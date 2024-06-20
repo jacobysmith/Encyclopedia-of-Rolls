@@ -1,6 +1,8 @@
 ---
 tags:
   - Backgrounds/PHB
+title: Hermit
+draft: false
 ---
 
 ## Hermit

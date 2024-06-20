@@ -1,6 +1,8 @@
 ---
 tags:
   - Backgrounds/PHB
+title: Criminal
+draft: false
 ---
 
 ## Criminal

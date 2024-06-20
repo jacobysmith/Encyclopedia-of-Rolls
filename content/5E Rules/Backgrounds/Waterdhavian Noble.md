@@ -1,6 +1,8 @@
 ---
 tags:
   - Backgrounds/SCAG
+title: Waterdhavian Noble
+draft: false
 ---
 ## Waterdhavian Noble
 

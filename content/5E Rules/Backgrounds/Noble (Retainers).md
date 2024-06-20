@@ -1,6 +1,8 @@
 ---
 tags:
   - Backgrounds/PHB
+title: Noble (Retainers)
+draft: false
 ---
 
 ## Variant Noble (Retainers)

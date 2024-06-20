@@ -1,6 +1,8 @@
 ---
 tags:
   - Backgrounds/SCAG
+title: Mercenary Veteran
+draft: false
 ---
 ## Mercenary Veteran
 

@@ -1,6 +1,8 @@
 ---
 tags:
   - Backgrounds/PHB
+title: Folk Hero
+draft: false
 ---
 
 ## Folk Hero

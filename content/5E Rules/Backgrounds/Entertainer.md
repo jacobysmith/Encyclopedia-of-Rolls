@@ -1,6 +1,8 @@
 ---
 tags:
   - Backgrounds/PHB
+title: Entertainer
+draft: false
 ---
 
 ## Entertainer

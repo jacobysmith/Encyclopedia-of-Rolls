@@ -1,4 +1,6 @@
 ---
+title: Acolyte
+draft: false
 tags:
   - Backgrounds/PHB
 ---

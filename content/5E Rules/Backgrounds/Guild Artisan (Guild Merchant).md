@@ -1,6 +1,8 @@
 ---
 tags:
   - Backgrounds/PHB
+title: Guild Artisan (Guild Merchant)
+draft: false
 ---
 
 ## Variant Guild Artisan (Guild Merchant)

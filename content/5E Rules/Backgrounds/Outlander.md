@@ -1,6 +1,8 @@
 ---
 tags:
   - Backgrounds/PHB
+title: Outlander
+draft: false
 ---
 
 ## Outlander

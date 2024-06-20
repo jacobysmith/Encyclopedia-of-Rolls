@@ -1,6 +1,8 @@
 ---
 tags:
   - Backgrounds/SCAG
+title: Uthgardt Tribe Hunter
+draft: false
 ---
 ## Uthgardt Tribe Member
 

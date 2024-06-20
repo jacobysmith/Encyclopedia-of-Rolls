@@ -1,6 +1,8 @@
 ---
 tags:
   - Backgrounds/SCAG
+title: Urban Bounty Hunter
+draft: false
 ---
 ## Urban Bounty Hunter
 

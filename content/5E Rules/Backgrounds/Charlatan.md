@@ -1,4 +1,6 @@
 ---
+title: Charlatan
+draft: false
 tags:
   - Backgrounds/PHB
 ---

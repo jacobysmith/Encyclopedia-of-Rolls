@@ -1,6 +1,8 @@
 ---
+title: City Watch (Investigator)
 tags:
   - Backgrounds/SCAG
+draft: false
 ---
 ## City Watch
 

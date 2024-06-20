@@ -1,6 +1,8 @@
 ---
 tags:
   - Backgrounds/PHB
+title: Sage
+draft: false
 ---
 
 ## Sage

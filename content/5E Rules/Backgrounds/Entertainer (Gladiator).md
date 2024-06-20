@@ -1,6 +1,8 @@
 ---
 tags:
   - Backgrounds/PHB
+title: Entertainer (Gladiator)
+draft: false
 ---
 
 ## Variant Entertainer (Gladiator)

@@ -1,6 +1,8 @@
 ---
 tags:
   - Backgrounds/PHB
+title: Sailor
+draft: false
 ---
 
 ## Sailor

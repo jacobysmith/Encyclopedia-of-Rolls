@@ -1,6 +1,8 @@
 ---
 tags:
   - Backgrounds/PHB
+title: Noble (Knight)
+draft: false
 ---
 
 ## Variant Noble (Knight)
