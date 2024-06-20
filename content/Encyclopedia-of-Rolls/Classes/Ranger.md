@@ -1,4 +1,10 @@
-# [[Ranger]]
+
+---
+title: "Ranger"
+draft: false
+tags:
+  - Class
+---
 
 ### Class Features
 

@@ -1,4 +1,10 @@
-# [[Monk]]
+
+---
+title: "Monk"
+draft: false
+tags:
+  - Class
+---
 
 ### Class Features
 

@@ -1,5 +1,10 @@
-# [[Barbarian]]
 
+---
+title: "Barbarian"
+draft: false
+tags:
+  - Class
+---
 ### Class Features
 
 As a barbarian, you gain the following class features.

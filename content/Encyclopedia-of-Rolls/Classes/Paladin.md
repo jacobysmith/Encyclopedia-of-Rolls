@@ -1,4 +1,10 @@
-# [[Paladin]]
+
+---
+title: "Paladin"
+draft: false
+tags:
+  - Class
+---
 
 ### Class Features
 

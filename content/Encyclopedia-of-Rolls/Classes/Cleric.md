@@ -1,4 +1,10 @@
-# [[Cleric]]
+
+---
+title: "Cleric"
+draft: false
+tags:
+  - Class
+---
 
 ### Class Features
 

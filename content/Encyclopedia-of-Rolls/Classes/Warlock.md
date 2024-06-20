@@ -1,4 +1,10 @@
-# [[Warlock]]
+
+---
+title: "Warlock"
+draft: false
+tags:
+  - Class
+---
 
 ### Class Features
 

@@ -1,4 +1,10 @@
-# [[Bard]]
+
+---
+title: "Bard"
+draft: false
+tags:
+  - Class
+---
 
 ### Class Features
 

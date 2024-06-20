@@ -1,3 +1,10 @@
+
+---
+title: "Class List"
+draft: false
+tags:
+  - Index
+---
 - [[Barbarian]]
 - [[Bard]]
 - [[Cleric]]

@@ -1,4 +1,10 @@
-# [[Fighter]]
+
+---
+title: "Fighter"
+draft: false
+tags:
+  - Class
+---
 
 ### Class Features
 

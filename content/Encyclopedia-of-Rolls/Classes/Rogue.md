@@ -1,4 +1,10 @@
-# [[Rogue]]
+
+---
+title: "Rogue"
+draft: false
+tags:
+  - Class
+---
 
 ### Class Features
 

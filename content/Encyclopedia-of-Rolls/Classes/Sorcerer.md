@@ -1,4 +1,10 @@
-# [[Sorcerer]]
+
+---
+title: "Sorcerer"
+draft: false
+tags:
+  - Class
+---
 
 ### Class Features
 

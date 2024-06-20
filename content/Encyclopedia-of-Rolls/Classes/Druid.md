@@ -1,4 +1,10 @@
-# [[Druid]]
+
+---
+title: "Druid"
+draft: false
+tags:
+  - Class
+---
 
 ### Class Features
 
